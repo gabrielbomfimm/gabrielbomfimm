@@ -8,43 +8,32 @@ My name is Gabriel Bomfim Gonçalves, I'm 19 years old, and I'm from São Paulo,
 I have knowledge of Java, Object-Oriented Programming (OOP), and web development, which I apply through academic and personal projects. I'm passionate about technology and continuously improving my skills in software development, REST APIs, and SQL, with the goal of building a career in IT.
 
 <p align="left">
-    <a href="mailto:bomfimm.dev@gmail.com">
-        <img
-            alt="Email"
-            title="Contact me by email"
-            src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=CE4630"
-        />
-    </a>
+  <a href="https://github.com/gabrielbomfimm">
+    <img src="https://img.shields.io/badge/GitHub-gabrielbomfimm
+-181717?style=for-the-badge&logo=github" />
+  </a>
     <a href="https://www.linkedin.com/in/gabriel-bomfimm/">
-        <img
-            alt="LinkedIn"
-            title="Connect with me on LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1155ba"
-        />
-    </a>
-    <a href="https://github.com/gabrielbomfimm?tab=followers">
-        <img
-            alt="GitHub"
-            title="Follow me on GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/gabrielbomfimm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-181717?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=-181717" />
+  </a>
+  <a href="mailto:bomfimm.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact me-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🤖 Languages and Technologies
+### 🛠️ Tech Stack
 
 <p align="left">
-    <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img alt="JavaScript" title="JavaScript - Fundamentals" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img alt="Python" title="Python - Fundamentals" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-    <img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-    <img alt="VS Code" title="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <img alt="Java" title="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img alt="Python" title="Python - Fundamentals" src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img alt="JavaScript" title="JavaScript - Fundamentals" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
+    <img alt="Git" title="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    <img alt="VS Code" title="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio code-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=-181717" />
 </p>
 
 ---
@@ -58,7 +47,7 @@ I have knowledge of Java, Object-Oriented Programming (OOP), and web development
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <p align="left">
     <img
