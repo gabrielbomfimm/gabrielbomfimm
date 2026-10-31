@@ -9,8 +9,7 @@ I have knowledge of Java, Object-Oriented Programming (OOP), and web development
 
 <p align="left">
   <a href="https://github.com/gabrielbomfimm">
-    <img src="https://img.shields.io/badge/GitHub-gabrielbomfimm
--181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/github-gabrielbomfimm-181717.svg?style=for-the-badge&logo=github&logoColor=white&" />
   </a>
     <a href="https://www.linkedin.com/in/gabriel-bomfimm/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-181717?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=-181717" />
