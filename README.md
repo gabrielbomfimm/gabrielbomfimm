@@ -57,6 +57,6 @@ I have knowledge of Java, Object-Oriented Programming (OOP), and web development
     <img
         alt="Most Used Languages"
         height="180"
-        src="https://github-stats-extended.vercel.app/api/top-langs?username=gabrielbomfimm&langs_count=4&theme=dark_github&theme=dark"
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=gabrielbomfimm&langs_count=4&theme=dark"
     />
 </p>
